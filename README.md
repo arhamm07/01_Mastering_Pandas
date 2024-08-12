@@ -1,5 +1,8 @@
 # **Mastering Pandas: A Comprehensive Guide**
 
+![Data Science](https://img.shields.io/badge/Data_Science-Interview_Questions-blue)
+![Python](https://img.shields.io/badge/Python-v3.7%2B-brightgreen)
+![Pandas](https://img.shields.io/badge/Pandas-v1.1.0%2B-orange)
 
 
 Welcome to **Mastering Pandas**! This repository is a comprehensive guide and collection of notebooks to help you master the Pandas library in Python. Whether you're a beginner or an experienced data scientist, these notebooks will help you get the most out of Pandas for data manipulation and analysis.
@@ -69,10 +72,15 @@ You can also run the notebooks on Google Colab by clicking the badge below:
 Contributions are welcome! If you have any ideas for improving these notebooks or adding new content, feel free to submit a pull request or open an issue.
 
 Fork the repository.
-Create a new branch (**git checkout -b feature-branch**).
+
+Create a new branch (`git checkout -b feature-branch`).
+
 Make your changes.
-Commit your changes (**git commit -m 'Add some feature'**).
-Push to the branch (**git push origin feature-branch**).
+
+Commit your changes (`git commit -m 'Add some feature`).
+
+Push to the branch (`git push origin feature-branch`).
+
 Create a new Pull Request.
 
 ## 📞 **Contact**
@@ -80,10 +88,8 @@ Create a new Pull Request.
 If you have any questions or feedback, feel free to reach out:
 
 
-Author: M Arham Rafique
-
-Email: arham7813@gmail.com
-
-LinkedIn: www.linkedin.com/in/arhamrafique007
+- **Author:** M Arham Rafique.
+- **Email:** [![Gmail](https://img.shields.io/badge/-arham7813@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:arham7813@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Arham%20Rafique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arhamrafique007)
 
 
