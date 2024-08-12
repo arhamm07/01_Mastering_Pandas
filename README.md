@@ -5,6 +5,7 @@
 Welcome to **Mastering Pandas**! This repository is a comprehensive guide and collection of notebooks to help you master the Pandas library in Python. Whether you're a beginner or an experienced data scientist, these notebooks will help you get the most out of Pandas for data manipulation and analysis.
 
 📚 **Table of Contents**
+
 - Introduction
 - Installation
 - Notebooks Overview
@@ -41,11 +42,16 @@ pip install -r requirements.txt
 
 This repository is organized into the following key notebooks:
 
-**01_Basics_of_Pandas**.ipynb: Introduction to Pandas, data structures, and basic operations.
-**02_Data_Cleaning_and_Preprocessing**.ipynb: Handling missing data, filtering, and preprocessing techniques.
-**03_Advanced_Operations**.ipynb: Grouping, merging, and advanced indexing techniques.
-**04_Time_Series_Analysis**.ipynb: Working with time-series data using Pandas.
-**05_Visualization_with_Pandas**.ipynb: Visualizing data directly from Pandas.
+
+**Intro_to_Pandas**.ipynb: Introduction to Pandas, data structures, and basic operations.
+
+**Mastering_Pandas_01**.ipynb: Handling missing data, filtering, and preprocessing techniques.
+
+**Mastering_Pandas_02**.ipynb: Grouping, merging, and advanced indexing techniques.
+
+**Mastering_Pandas_03**.ipynb: Working with time-series data using Pandas.
+
+**Mastering_Pandas_04**.ipynb: Visualizing data directly from Pandas.
 Each notebook is designed to build on the previous one, helping you progressively deepen your understanding of Pandas.
 
 ## 🚀 **Usage**
