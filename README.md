@@ -74,8 +74,10 @@ Create a new Pull Request.
 If you have any questions or feedback, feel free to reach out:
 
 
-Author: Arham M.
+Author: M Arham Rafique
 
-Email: arham@example.com
+Email: arham7813@gmail.com
 
-LinkedIn: Arham's LinkedIn
+LinkedIn: www.linkedin.com/in/arhamrafique007
+
+
