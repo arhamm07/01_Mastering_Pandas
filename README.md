@@ -12,10 +12,10 @@ Welcome to **Mastering Pandas**! This repository is a comprehensive guide and co
 - Contributing
 - Contact
 
-🌟 **Introduction**
+## 🌟 **Introduction**
 Pandas is a powerful data manipulation tool that provides data structures and functions needed to work with structured data seamlessly. This repository contains a series of Jupyter notebooks that cover everything from the basics to advanced functionalities of Pandas. By working through these examples, you'll gain a deep understanding of how to use Pandas effectively for your data science projects.
 
-⚙️ **Installation**
+## ⚙️ **Installation**
 To get started with these notebooks, you need to have Python installed on your system. Follow the steps below to set up your environment:
 
 Clone this repository:
@@ -37,7 +37,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
-📄 **Notebooks Overview**
+## 📄 **Notebooks Overview**
 
 This repository is organized into the following key notebooks:
 
@@ -48,7 +48,7 @@ This repository is organized into the following key notebooks:
 **05_Visualization_with_Pandas**.ipynb: Visualizing data directly from Pandas.
 Each notebook is designed to build on the previous one, helping you progressively deepen your understanding of Pandas.
 
-🚀 **Usage**
+## 🚀 **Usage**
 To run the notebooks:
 
 Launch Jupyter Notebook:
@@ -58,8 +58,8 @@ jupyter notebook
 Open the notebook of your choice and start learning!
 You can also run the notebooks on Google Colab by clicking the badge below:
 
-🤝 **Contributing**
-
+## 🤝 **Contributing**
+ 
 Contributions are welcome! If you have any ideas for improving these notebooks or adding new content, feel free to submit a pull request or open an issue.
 
 Fork the repository.
@@ -69,9 +69,13 @@ Commit your changes (**git commit -m 'Add some feature'**).
 Push to the branch (**git push origin feature-branch**).
 Create a new Pull Request.
 
-📞 **Contact**
+## 📞 **Contact**
+
 If you have any questions or feedback, feel free to reach out:
 
+
 Author: Arham M.
+
 Email: arham@example.com
+
 LinkedIn: Arham's LinkedIn
